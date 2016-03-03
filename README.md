@@ -1,4 +1,4 @@
-# Android - Broadcast Receiver
+# Android - Broadcast Sender and Receiver
 ## Learning Objective - Broadcast Receivers
 
 This consists of 2 apps BcSender and BcReceiver.

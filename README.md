@@ -1,6 +1,6 @@
 # Android - Broadcast Sender and Receiver
 ## Learning Objective - Broadcast Receivers
-###App Name - BcSender, BcReceiver
+### App Name - BcSender, BcReceiver
 
 BcSender takes some dollar amount and target currency as input. It then sends a broadcast containing the amount and currency.
 
